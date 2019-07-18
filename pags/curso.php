@@ -1,0 +1,1 @@
+<h1>Detalhes do curso</h1>
