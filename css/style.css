@@ -1,0 +1,93 @@
+
+.logo{
+	max-width: 50px;
+}
+
+.nav-header{
+	background: #fb503b;
+}
+
+img.img-perfil{
+	border-radius: 100%;
+	max-width: 80px;
+	background: #FFF;
+}
+
+.menu-itens{}
+
+.content{}
+.title{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 2em;
+	color: #666;
+	
+}
+.courses{}
+.course{
+	border: 1px solid #999;
+    margin: 30px auto;
+    max-width: 240px;
+    position: relative;
+    min-height: 230px; 
+}
+
+.course img{}
+.title-course{
+	color: #999;
+    font-size: 1.2em;
+    margin: 8px;
+}
+.btn-view{
+	color: #FFF;
+    background: #fb503b;
+    width: 100%;
+    /* float: left; */ 
+    text-align: center;
+    padding: 5px;
+    font-size: 1.2em;
+    margin-top: 1px;
+    margin-left: -1px;
+    position: absolute; /* pra ficar por cima do que tem position relative O .course */ 
+    bottom: 0; /* Pra ficar sempre na parte de baixo */
+}
+
+.footer{
+	background: #CCC;
+	padding: 10px 0px;
+	margin: 0px; 
+}
+
+img.logo-footer{
+	max-width: 50px;
+}
+
+.copy{
+	background: #CCC;
+	padding: 5px 0px;
+	margin: 0px;
+	float: left;/* pra pegar o width de baixo */
+	width: 100%;
+}
+
+.copy p{
+	color: #FFF;
+	font-size: .8em;
+	margin: 0px;
+}
+
+ul.social{
+    margin-top: -31px;
+    margin-left: 100px;
+    
+}
+
+ul.social li{
+    display: inline-block;
+}
+
+ul.social li a{
+    padding: 5px 10px;
+    font-size: 1.4em;
+    color: #000;
+}
