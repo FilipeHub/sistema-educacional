@@ -80,7 +80,7 @@
 	<!-- Fim menu -->
 
 	<section class="content">
-		<div class="container">
+		
 			<?php
 				if(!$_GET){
 					include "pags/home.php";
@@ -92,7 +92,7 @@
 
 			?>
 
-		</div><!-- Container -->
+		
 	</section> <!-- Section Content -->
 
 
