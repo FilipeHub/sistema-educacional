@@ -68,3 +68,31 @@ body{font-family: "Open Sans"}
 	border-color: #1b501a;
 }
 
+.btn-link{
+	color: #FFF;
+    text-decoration: none;
+}
+
+.btn-link:hover{
+	color: #FFF;
+    text-decoration: none;
+}
+
+.btn-link:focus{
+	color: #FFF;
+    text-decoration: none;
+
+}
+
+
+
+.card-header{
+	padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgb(251, 80, 59);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+
+
+
