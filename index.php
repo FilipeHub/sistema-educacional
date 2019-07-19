@@ -136,7 +136,7 @@
 		</div> <!-- Footer container -->
 	</footer>
 	<div class="copy text-center">
-		<p>Todos os direitos reservados LaraSchool - <?=date('Y')?></p>
+		<p>Todos os direitos reservados Filipe Cavalcante - <?=date('Y')?></p>
 	</div>
 
 

@@ -56,6 +56,8 @@ img.img-perfil{
 	background: #CCC;
 	padding: 10px 0px;
 	margin: 0px; 
+	float: left;
+	width: 100%;
 }
 
 img.logo-footer{
@@ -91,3 +93,56 @@ ul.social li a{
     font-size: 1.4em;
     color: #000;
 }
+
+.details-course{
+	background: #333;
+	float: left;
+	width: 100%;
+	color: #FFF;
+	padding: 30px 0px;
+}
+.title-course-detail{
+	text-transform: uppercase;
+	font-size: 2em;
+	font-weight: bold;
+}
+.description-course{
+	font-size: 1em;
+	margin: 6px 0px 40px 0px; /* top left botton right  */
+}
+p.info{
+	font-size: 1.2em;
+}
+p.info strong{
+	font-weight: bold;
+}
+
+img.img-course-detail{
+	border: 10px solid #FFF;
+}
+
+.btn-buy{
+	background: #e27517;
+	width: 100%;
+	float: left;
+	margin: 10px 0px;
+	padding: 10px 20px;
+	font-size: 1.4em;
+	text-transform: uppercase;
+	color: #FFF;
+	font-weight: bold;
+	box-shadow: 0px 1px 4px #a05d23;
+}
+
+.btn-buy:hover{
+	color: #FFF;
+	text-decoration: none;
+	opacity: .9;
+}
+
+.details-course-itens{
+	width: 100%;
+	float: left;
+	padding: 30px 0px;
+}
+
