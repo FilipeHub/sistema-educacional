@@ -46,7 +46,7 @@
 	  <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
 	    <ul class="navbar-nav mr-auto menu-itens">
 	      <li class="nav-item">
-	        <a class="nav-link" href="#">Meus Cursos</a>
+	        <a class="nav-link" href="?pg=lession">Meus Cursos</a>
 	      </li>
 	      <li class="nav-item dropdown">
 	        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

@@ -121,6 +121,26 @@ img.img-course-detail{
 	border: 10px solid #FFF;
 }
 
+.btn-new{
+	background: #e27517;
+	
+	
+	margin: 3px 0px;
+	padding: 3px 20px;
+	font-size: 1em;
+	text-transform: uppercase;
+	color: #FFF;
+	font-weight: bold;
+	box-shadow: 0px 1px 4px #a05d23;
+}
+
+.btn-new:hover{
+	color: #FFF;
+	text-decoration: none;
+	opacity: .9;
+}
+
+
 .btn-buy{
 	background: #e27517;
 	width: 100%;
